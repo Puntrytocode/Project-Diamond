@@ -38,8 +38,9 @@ nav {
 
 /* -----Navigation Bar----- */
 nav {
-    background-color: #fffff;
-/*     margin: 0 2rem; */
+    background-color: #fff
+    ;
+    /* margin: 0 2rem; */
     
     .wrapper {
         margin: 0 2rem;
@@ -54,7 +55,7 @@ nav {
         }
         
        .hamburger {
-           margin-right: 2rem;
+        margin-right: 2rem;
        }
         /* .logo {
 
