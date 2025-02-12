@@ -38,7 +38,7 @@ nav {
 
 /* -----Navigation Bar----- */
 nav {
-    
+    background-color: white;
 /*     margin: 0 2rem; */
     
     .wrapper {
@@ -53,7 +53,9 @@ nav {
             display: flex;
         }
         
-       
+       .hamburger {
+           margin-right: 2rem;
+       }
         /* .logo {
 
         } */
